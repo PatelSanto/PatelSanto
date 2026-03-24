@@ -13,7 +13,6 @@
 
 ## 💫 About Me
 
-- 🔭 I'm currently working as a **Junior Software Engineer at KDS Services Pvt Ltd**, building cross-platform Flutter apps for government & enterprise clients
 - 🌱 I'm continuously levelling up in **Flutter, Dart, REST APIs, Firebase & State Management**
 - 💼 **2.5+ years** of experience delivering production-ready Android & iOS applications
 - 🏛️ Specialized in **government-scale apps** — GIS surveys, sanitation management, handpump tracking, HR systems & more
@@ -177,7 +176,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PatelSanto&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PatelSanto&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
 ---
