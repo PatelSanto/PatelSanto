@@ -14,7 +14,7 @@
 ## 💫 About Me
 
 - 🌱 I'm continuously levelling up in **Flutter, Dart, REST APIs, Firebase & State Management**
-- 💼 **2.5+ years** of experience delivering production-ready Android & iOS applications
+- 💼 **2+ years** of experience delivering production-ready Android & iOS applications
 - 🏛️ Specialized in **government-scale apps** — GIS surveys, sanitation management, handpump tracking, HR systems & more
 - 💬 Ask me about **Flutter Development, Provider, GetX, JWT Auth, GPS Integration, Razorpay**
 - 📫 Reach me at **patelsanto44@gmail.com**
@@ -77,7 +77,7 @@
 
 ## 💼 Work Experience
 
-**Junior Software Engineer** *(2.5+ Years of Experience)*
+**Junior Software Engineer** *(2+ Years of Experience)*
 
 - 📲 Designed & developed **6+ cross-platform Flutter apps** for Android & iOS serving government and enterprise clients
 - 🔐 Integrated **REST APIs with JWT auth & RBAC** for secure real-time data sync with Java backends
